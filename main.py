@@ -37,4 +37,3 @@ if __name__ == '__main__':
     os.system("clear")
     data = ["Chicken", "Port", "Beef", "Fish"]
     print(option_sys(data,"Pick your food"))
-
